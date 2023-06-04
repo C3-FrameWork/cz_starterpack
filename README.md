@@ -5,3 +5,6 @@ This is script is for FIVEM!
 
 Contact:
 !!Its_Cehic#9999
+
+Wiki: 
+https://github.com/C3-FrameWork/cz_starterpack.wiki.git
