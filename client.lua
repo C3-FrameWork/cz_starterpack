@@ -28,7 +28,7 @@ AddEventHandler('displayHelpMessage', function()
 end)
 
 RegisterNetEvent('givePlayerItem')
-AddEventHandler('givePlayerItem', function(itemName, amount, equip, holster)
+AddEventHandler('givePlayerItem', function(itemName, amount, weight, holster)
     TriggerServertEvent('givePlayerItem', playerId, 'phone', 1, true, true) 
     TriggerServerEvent('givePlayerItem', playerId, 'bread', 10) 
     TriggerServerEvent('givePlayerItem', playerId, 'water', 10) 

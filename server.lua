@@ -15,8 +15,8 @@ AddEventHandler('playerJoined', function()
 end)
 
 function GiveStartingItems(playerId)
-    TriggerClientEvent('givePlayerItem', playerId, 'phone', 1, true, true), 
-    TriggerClientEvent('givePlayerItem', playerId, 'bread', 10), 
+    TriggerClientEvent('givePlayerItem', playerId, 'phone', 1, true, true) 
+    TriggerClientEvent('givePlayerItem', playerId, 'bread', 10) 
     TriggerClientEvent('givePlayerItem', playerId, 'water', 10) 
 end
 
