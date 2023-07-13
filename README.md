@@ -8,3 +8,4 @@ Contact:
 
 Wiki: 
 https://github.com/C3-FrameWork/cz_starterpack.wiki.git
+not working wiki!
